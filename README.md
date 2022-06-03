@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hong
+- 👋 Hi, I’m Hong, new for software world.
 - 👀 I’m interested in leardning new things.
 - 🌱 I’m currently learning coding and software related skill.I have ZERO experience on software before.
 - 💞️ I’m looking to collaborate on learning experience.
